@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=GoLand
+Icon=/home/engelch/bin/goland.png
+Exec=/home/engelch/bin/goland.sh
+

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=DataGrip
+Icon=/home/engelch/bin/datagrip.png
+Exec=/home/engelch/bin/datagrip.sh
+
