@@ -34,7 +34,7 @@ visible-name='DVL_WhiteBlue'
 
 [:370db686-f9ce-4700-86fd-745db633c7a0]
 audible-bell=false
-background-color='rgb(107,7,7)'
+background-color='rgb(69,1,1)'
 cursor-colors-set=true
 cursor-foreground-color='rgb(230,237,35)'
 default-size-columns=200
