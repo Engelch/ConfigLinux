@@ -11,3 +11,9 @@ cat all-gnome-terminal-settings.dconf | dconf load /org/gnome/terminal/legacy/
 
 # profile
 cat gnome-terminal-profiles.dconf  | dconf load /org/gnome/terminal/legacy/profiles:/
+
+
+https://wiki.ubuntuusers.de/GNOME_Konfiguration/dconf/
+
+   gsettings list-schemas
+
