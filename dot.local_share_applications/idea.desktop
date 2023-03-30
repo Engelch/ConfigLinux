@@ -2,6 +2,6 @@
 Type=Application
 Terminal=false
 Name=IdeaJ Ultimate
-Icon=/home/engelch/bin/idea.png
-Exec=/home/engelch/bin/idea.sh
+Icon=/opt/IdeaJ/bin/idea.png
+Exec=/opt/IdeaJ/bin/idea.sh
 

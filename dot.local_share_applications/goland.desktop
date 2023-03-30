@@ -2,6 +2,6 @@
 Type=Application
 Terminal=false
 Name=GoLand
-Icon=/home/engelch/bin/goland.png
-Exec=/home/engelch/bin/goland.sh
+Icon=/opt/GoLand/bin/goland.png
+Exec=/opt/GoLand/bin/goland.sh
 
