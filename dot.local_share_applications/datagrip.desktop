@@ -2,6 +2,6 @@
 Type=Application
 Terminal=false
 Name=DataGrip
-Icon=/home/engelch/bin/datagrip.png
-Exec=/home/engelch/bin/datagrip.sh
+Icon=/opt/DataGrip/bin/datagrip.png
+Exec=/opt/DataGrip/bin/datagrip.sh
 
